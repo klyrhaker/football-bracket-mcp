@@ -1,0 +1,27 @@
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+*.tsbuildinfo
+
+# Environment variables
+.env*
+!.env.example
+
+# Testing
+coverage/
+
+# Skybridge
+.skybridge/
+
+# Deployment
+.vercel/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

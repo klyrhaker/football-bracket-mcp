@@ -1,0 +1,12 @@
+
+node_modules/
+dist/
+coverage/
+.skybridge/
+.vercel/
+.agents/
+.claude/
+package-lock.json
+skills-lock.json
+.env*
+*.log
