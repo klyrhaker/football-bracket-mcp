@@ -3,7 +3,8 @@
   "compilerOptions": {
     "paths": {
       "@/*": ["./src/*"]
-    }
+    },
+    "types": ["node", "vite/client", "vitest/globals"]
   },
   "include": ["src", ".skybridge/**/*.d.ts"]
 }
